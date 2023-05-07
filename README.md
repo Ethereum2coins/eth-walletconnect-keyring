@@ -1,0 +1,1 @@
+Ethereum2coins eth-walletconnect-keyring
